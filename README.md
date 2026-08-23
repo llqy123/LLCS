@@ -32,8 +32,8 @@ We provide F-ViT-based checkpoints with different EVA-CLIP backbones for **Open-
 
 | Method              | Backbone |       mAP_r      | mAP_c | mAP_f |  mAP  |    Checkpoint   |
 | :------------------ | :------: | :-------------: | :--: | :--: | :--: | :-------------: |
-| F-ViT + LLCS | ViT-B/16 | **28.1** | 22.9 | 30.7 | 26.8 | [Download](https://pan.baidu.com/s/1Qp9MbXKjPq2uXTU6XOVKeA?pwd=LLCS) |
-| F-ViT + LLCS | ViT-L/14 | **39.3** | 34.3 | 35.5 | 35.6 | [Download](https://pan.baidu.com/s/14kt3jEMBzHDrtS0U_VaUuw?pwd=LLCS) |
+| F-ViT + LLCS | ViT-B/16 | 28.1 | 22.9 | 30.7 | 26.8 | [Download](https://pan.baidu.com/s/1Qp9MbXKjPq2uXTU6XOVKeA?pwd=LLCS) |
+| F-ViT + LLCS | ViT-L/14 | 39.3 | 34.3 | 35.5 | 35.6 | [Download](https://pan.baidu.com/s/14kt3jEMBzHDrtS0U_VaUuw?pwd=LLCS) |
 
 ### OVSS
 
