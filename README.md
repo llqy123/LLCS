@@ -39,10 +39,10 @@ We provide F-ViT-based checkpoints with different EVA-CLIP backbones for **Open-
 
 We also provide CAT-Seg-based checkpoints with different EVA-CLIP backbones for **Open-Vocabulary Semantic Segmentation**. 
 
-| Method | Backbone | Training Set | ADE847 | Context459 | ADE150 | Context59 | VOC20 | VOC21 | Checkpoint | 
-|:---|:---:|:---:|---:|---:|---:|---:|---:|---:|:---:| 
-| CAT-Seg + LLCS | ViT-B/16 | COCO-Stuff | 15.4 | 23.0 | 37.5 | 61.1 | 97.0 | 81.1 | [Download](https://pan.baidu.com/s/1Pz2v6-jneoKa0VOyDVK5_g?pwd=LLCS) | 
-| CAT-Seg + LLCS | ViT-L/14 | COCO-Stuff | 18.7 | 27.0 | 41.7 | 63.5 | 97.8 | 83.8 | [Download](https://pan.baidu.com/s/1AR1jSvVpgWO8MX7r6S86EA?pwd=LLCS) |
+| Method | Backbone | ADE847 | Context459 | ADE150 | Context59 | VOC20 | VOC21 | Checkpoint | 
+|:---|:---:|---:|---:|---:|---:|---:|---:|:---:| 
+| CAT-Seg + LLCS | ViT-B/16 | 15.4 | 23.0 | 37.5 | 61.1 | 97.0 | 81.1 | [Download](https://pan.baidu.com/s/1Pz2v6-jneoKa0VOyDVK5_g?pwd=LLCS) | 
+| CAT-Seg + LLCS | ViT-L/14 | 18.7 | 27.0 | 41.7 | 63.5 | 97.8 | 83.8 | [Download](https://pan.baidu.com/s/1AR1jSvVpgWO8MX7r6S86EA?pwd=LLCS) |
 
 ## 📚 Citation
 
