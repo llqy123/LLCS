@@ -2,7 +2,7 @@
 ✨Learning Local and Consistent Semantics for Open-Vocabulary Dense Prediction
 </h2>
 
-This repository is the official implementation of [**Learning Local and Consistent Semantics for Open-Vocabulary Dense Prediction**](xxx) accepted by [**TCSVT 2026**](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=76).      
+This repository is the official implementation of [**Learning Local and Consistent Semantics for Open-Vocabulary Dense Prediction**](https://ieeexplore.ieee.org/document/11664490) accepted by [**TCSVT 2026**](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=76).      
 > Qiuyu Liang, Yongqiang Zhang*  
 
 ## 📍Installation
